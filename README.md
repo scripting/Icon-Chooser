@@ -3,6 +3,10 @@ Icon-Chooser
 
 An icon chooser for Font Awesome icons, running in Bootstrap 2.
 
+License: GPL. 
+
+Here's the story...
+
 Our users love icons. 
 
 I guess most users do, but people who write in outliners need a little more graphic relief because our work is totally text and structure. Adding a bit of graphics is like adding spice to a sauce. And they're fun!
