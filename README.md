@@ -22,3 +22,11 @@ If you're not using Fargo, here's a <a href="http://smallpicture.com/demos/iconC
 If you're a programmer, the code is free to use under the GPL. That means any improvements you make must also be licensed under the GPL. And it would be nice if you said where you got it. :-)
 
 Enjoy! 
+
+
+Update 2/28/2014 -- version 3.0
+===============================
+
+Updated to support Font-Awesome 4.0.3.
+
+Left and right-arrow move through the tabs.
